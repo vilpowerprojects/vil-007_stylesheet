@@ -7272,7 +7272,7 @@ border-radius:8px;
   margin-left: 0em;
   margin-right: 0em;
   margin-bottom: -0.8em;
-  color: #FFFFFF;
+  color: #000;
   background-color: #E1F3FD;
   line-height: 32px;
   letter-spacing: 0.02em;
@@ -18633,7 +18633,7 @@ border-radius:8px;
 }
 .box-unit-Vg11_green_lite
 {
-border:1px solid #666666;
+border:1px solid #E7EEB7;
 background-color:#E7EEB7;
 padding:0em;
 border-radius:8px;
