@@ -18479,3 +18479,11 @@ summary.collapsible-toggle::-webkit-details-marker {
   border-radius: 16px;
   gap: 10px;
 }
+
+.box-do-viowy {
+  color: #000;
+  padding: 2px 12px 2px 12px;
+  background-color: #FFD400;
+  border-radius: 16px;
+  gap: 10px;
+}
