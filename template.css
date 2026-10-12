@@ -907,6 +907,31 @@ ul.bullet-list1b>li::marker {
   border-bottom: 1px solid black;
 }
 
+.tdh-1LB_blue_dark {
+  background-color: #009EDA;
+  color: #000000;
+  padding: 0.2em;
+  border-top: 4px solid #007DBD;
+  border-bottom: 1px solid black;
+}
+
+.tdh-1LB_blue_medium {
+  background-color: #ABE0F9;
+  color: #000000;
+  padding: 0.2em;
+  border-top: 4px solid #007DBD;
+  border-bottom: 1px solid black;
+}
+
+.tdh-1LB_blue_lite {
+  background-color: #E1F3FD;
+  color: #000000;
+  padding: 0.2em;
+  border-top: 4px solid #007DBD;
+  border-bottom: 1px solid black;
+}
+
+
 .tdt {
   color: #000000;
   padding: 0.5em;
